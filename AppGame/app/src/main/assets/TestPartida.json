@@ -1,0 +1,105 @@
+{
+  "uid": "b3a12c72-4571-4be2-98eb-30ab3c81c0b5",
+  "preguntes": [
+    {
+      "enunciat": "Quin és el nom del protagonista en 'The Legend of Zelda'?",
+      "respostes": [
+        "Ganondorf",
+        "Zelda",
+        "Link",
+        "Mario"
+      ],
+      "imatge": "https://exemple.com/link.jpg"
+    },
+    {
+      "enunciat": "Quin joc de la franquícia 'Halo' va ser llançat juntament amb la Xbox original?",
+      "respostes": [
+        "Halo: Combat Evolved",
+        "Halo 3",
+        "Halo 2",
+        "Halo: Reach"
+      ],
+      "imatge": "https://example.com/halo.jpg"
+    },
+    {
+      "enunciat": "Quina empresa va desenvolupar el videojoc 'The Elder Scrolls V: Skyrim'?",
+      "respostes": [
+        "Ubisoft",
+        "Bethesda Game Studios",
+        "Rockstar Games",
+        "CD Projekt Red"
+      ],
+      "imatge": "https://example.com/skyrim.jpg"
+    },
+    {
+      "enunciat": "Quin és el personatge principal de la saga 'The Witcher'?",
+      "respostes": [
+        "Master Chief",
+        "Link",
+        "Geralt of Rivia",
+        "Ezio Auditore"
+      ],
+      "imatge": "https://exemple.com/geralt.jpg"
+    },
+    {
+      "enunciat": "Quin és el nom del protagonista de 'God of War'?",
+      "respostes": [
+        "Kratos",
+        "Zeus",
+        "Ares",
+        "Atreus"
+      ],
+      "imatge": "https://example.com/kratos.jpg"
+    },
+    {
+      "enunciat": "En quin videojoc va sortir per primera vegada el personatge de Mario?",
+      "respostes": [
+        "Mario Kart",
+        "Super Mario Bros.",
+        "Donkey Kong",
+        "Wrecking Crew"
+      ],
+      "imatge": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/en_CA/games/android/s/super-mario-run-android/description-image"
+    },
+    {
+      "enunciat": "Quina saga de videojocs està ambientada a la ciutat fictícia de Raccoon City?",
+      "respostes": [
+        "Dead Space",
+        "Resident Evil",
+        "Left 4 Dead",
+        "Silent Hill"
+      ],
+      "imatge": "https://example.com/resident-evil.jpg"
+    },
+    {
+      "enunciat": "Quin és el nom del famós fontaner de Nintendo?",
+      "respostes": [
+        "Toad",
+        "Mario",
+        "Luigi",
+        "Yoshi"
+      ],
+      "imatge": "https://exemple.com/mario.jpg"
+    },
+    {
+      "enunciat": "Quina consola va ser la primera en presentar el control amb detecció de moviment amb el seu sistema 'Wii Remote'?",
+      "respostes": [
+        "PlayStation 2",
+        "Sega Dreamcast",
+        "Xbox 360",
+        "Nintendo Wii"
+      ],
+      "imatge": "https://exemple.com/wii.jpg"
+    },
+    {
+      "enunciat": "Quin és el nom de la princesa que ha de salvar Link a 'The Legend of Zelda'?",
+      "respostes": [
+        "Midna",
+        "Zelda",
+        "Impa",
+        "Navi"
+      ],
+      "imatge": "https://example.com/zelda.jpg"
+    }
+  ]
+}
